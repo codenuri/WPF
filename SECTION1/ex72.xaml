@@ -1,0 +1,5 @@
+<local:MainWindow xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+            	  xmlns:local="clr-namespace:;assembly=SECTION1"
+		  Title="ex72" Width="400" Height="400">
+
+</local:MainWindow>
